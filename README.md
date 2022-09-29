@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cornelius Mwema
-- 👀 I’m good at java springboot,datatabes, python machine learning and programming in general.
-- 💞️ I’m looking to collaborate on mostly development using springboot framework,and machine learning for the time being.
+- 👀 I’m good at java springboot, datatabes(SQL), python machine learning and programming in general.
+- 💞️ I’m looking to collaborate mostly on development using springboot framework,and machine learning for the time being.
 - 📫 How to reach me through my email cornelstarlon@gmail.com
